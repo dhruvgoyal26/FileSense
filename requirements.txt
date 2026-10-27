@@ -1,0 +1,12 @@
+# FileSense — High-Performance Local File Indexing and Redundancy Detection Tool
+# Core application runs entirely using Python 3.11+ Standard Library:
+# - tkinter & ttk (GUI)
+# - sqlite3 (Database)
+# - hashlib (SHA-256 streaming hashing)
+# - threading (Background scanner & detector concurrency)
+# - pathlib / os (Filesystem traversal)
+# - unittest (Automated test suite)
+
+# Optional dependencies for extended visualization/testing:
+matplotlib>=3.7.0
+pytest>=7.0.0
